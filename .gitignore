@@ -7,8 +7,3 @@ util.o
 dmenu-4.9.tar.gz
 *.rej
 *.orig
-patches/dmenu-grid-4.9.diff
-patches/dmenu-managed-4.9.diff
-patches/dmenu-multi-selection-4.9.diff
-patches/dmenu-password-4.9.diff
-patches/dmenu-prefixcompletion-flag-4.9.diff
